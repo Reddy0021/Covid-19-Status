@@ -1,0 +1,9 @@
+table{
+    border-style:solid;
+    border-width:2px;
+    border-color:orange;
+    margin-left: 30%;
+}
+#myTable tr.header, #myTable tr:hover {
+  background-color: yellow;
+}

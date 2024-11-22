@@ -1,0 +1,9 @@
+a{
+    /* text-align: left; */
+    text-decoration: none;
+    text-decoration-color:white;
+    color:white;
+}
+a:hover{
+    background-color: red;
+}

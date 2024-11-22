@@ -1,0 +1,97 @@
+body{
+    margin: 0px 0px 0px 0px;
+}
+
+.navBar {
+    background-color: black;
+    height: 100px;
+}     
+.navBar a {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    font-size: large;
+    padding: 10px;
+    position: relative;
+    top:30px;
+}
+.navBar a:hover{
+    background-color: red;
+}
+.image{
+   width:100%;
+   height: 87%;
+}
+
+body{
+    margin: 0px 0px 0px 0px;
+} 
+.line{
+    width:25%
+}
+
+
+    .container .VaccinePortal  a{
+        text-decoration: none;
+        color: white;
+    }
+  
+  .container .VaccinePortal {
+    position: absolute;
+    top: 92%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: red;
+    color: white;
+    font-size: 40px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+
+
+  
+  .container .VaccinePortal:hover {
+    background-color: black;
+  }
+
+  
+
+  .container .NearBy a{
+    text-decoration: none;
+    color: white;
+}
+
+.container .NearBy{
+    position: absolute;
+    top: 92%;
+    white-space: nowrap;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: red;
+    color: white;
+    font-size: 40px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+
+
+
+.container .NearBy:hover {
+background-color: black;
+}
